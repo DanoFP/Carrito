@@ -1,5 +1,5 @@
 # App Carrito for practice
 
-## Collab
+## Collaborators
 - Romina Espinosa
 - Danilo Piñeyro
